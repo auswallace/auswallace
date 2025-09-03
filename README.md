@@ -1,4 +1,11 @@
-<h1>Hi, I'm Austin! <br/><a href="https://github.com/auswallace">Analyst</a>, <a href="https://www.linkedin.com/in/austinawallace/">Cybersecurity Professional</a>
+<h1>Hi, I'm Austin! <br/>
+<a href="https://github.com/auswallace">Analyst</a>, <a href="https://www.linkedin.com/in/austinawallace/">Cybersecurity Professional</a>
+</h1>
+
+I work in cybersecurity with a focus on risk and vulnerability reporting, but I use this space to explore what’s possible with data.  
+You’ll find projects in here where I dig into analysis, experiment with machine learning, and test ideas that sharpen my skills.  
+I like projects that mix clarity with curiosity — where the code doesn’t just run, it actually tells a story.  
+
 
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
