@@ -19,6 +19,8 @@ I like projects that mix clarity with curiosity — where the code doesn’t jus
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Claude<b>
+  - https://claude.ai/public/artifacts/1d427d54-48fc-4163-a2bf-bbee6490f09e
 
 <h2>📺 Popular YouTube Videos</h2>
 
