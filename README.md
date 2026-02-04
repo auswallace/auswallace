@@ -1,50 +1,62 @@
-<h1>Hi, I'm Austin! <br/>
-<a href="https://github.com/auswallace">Analyst</a>, <a href="https://www.linkedin.com/in/austinawallace/">Cybersecurity Professional</a>
-</h1>
+# Hi, I'm Austin
 
-I work in cybersecurity with a focus on risk and vulnerability reporting, but I use this space to explore what’s possible with data.  
-You’ll find projects in here where I dig into analysis, experiment with machine learning, and test ideas that sharpen my skills.  
-I like projects that mix clarity with curiosity — where the code doesn’t just run, it actually tells a story.  
+**Cybersecurity Analyst** | **Data Enthusiast** | **ML Explorer**
 
+I work in cybersecurity with a focus on risk and vulnerability reporting, but I use this space to explore what's possible with data. You'll find projects here where I dig into analysis, experiment with machine learning, and build tools that solve real problems.
 
-<h2>👨‍💻 Data Analytics Projects:</h2>
+I like projects that mix clarity with curiosity — where the code doesn't just run, it tells a story.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>Tableau</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>R</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Claude<b>
-  - https://claude.ai/public/artifacts/1d427d54-48fc-4163-a2bf-bbee6490f09e
+---
 
-<h2> 🤳 Connect with me:</h2>
+## Featured Projects
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Machine Learning & Data Science
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/austinawallace
+| Project | Description | Tech |
+|---------|-------------|------|
+| [F1 Teammate Qualifying ML](https://github.com/auswallace/F1-teammate-quali-ML) | Full-stack ML pipeline predicting F1 race winners with 2025 season data integration. Includes dashboard, API, and tests. | Python, TypeScript, FastAPI |
+| [F1 Enhanced Dashboard](https://github.com/auswallace/Formula-One-React-Dashboard) | Comprehensive Formula 1 dashboard with sector timing analysis, track layout visualization, and interactive lap charts. | React, JavaScript |
+| [Portfolio Trimming Backtest](https://github.com/auswallace/portfolio-trimming-backtest) | Quantitative analysis: Does portfolio trimming beat buy-and-hold? Three-phase backtest with real data (2015-2024). | Python, Pandas |
+| [Data Cleaning AI Agent](https://github.com/auswallace/Data-Cleaning-AI-Agent) | Automated tool that cleans messy datasets using AI — built because I got tired of rewriting the same data cleaning code. | Python, Claude |
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity & Analysis
 
-Here are some ideas to get you started:
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Vulnerability Analysis](https://github.com/auswallace/Vulnerably_Analysis) | Exploring, analyzing, and modeling vulnerability management data with risk scoring and prioritization techniques. | R, Python |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Kaggle Work
+
+My [Kaggle notebooks collection](https://github.com/auswallace/kaggle-notebooks) showcases a range of data science skills:
+
+**Computer Vision**
+- Jaguar Re-Identification using DINOv2 + ArcFace (0.93 score)
+- Spot Pattern Recognition Models
+
+**Exploratory Data Analysis**
+- Netflix content analysis
+- Global earthquake patterns
+- TikTok video duration analysis
+- Social media addiction correlation studies
+
+**ML/Prediction**
+- Heart Disease Prediction (Ensemble GBT)
+- Steam player count forecasting
+- Used car price prediction
+
+---
+
+## Skills
+
+**Languages:** Python, R, SQL, JavaScript/TypeScript
+**ML/Data:** Pandas, Scikit-learn, TensorFlow, Tableau
+**Web:** React, FastAPI, Node.js
+**Security:** Vulnerability assessment, risk analysis, event log analysis
+**Tools:** Git, Claude/AI tooling, Jupyter
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/austinawallace/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/awallay)
