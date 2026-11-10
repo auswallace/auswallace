@@ -14,7 +14,7 @@ I care about honest numbers. Each project below says what it can and cannot tell
 | [unmuffle](https://github.com/auswallace/unmuffle) | Drop in a bad recording and get back cleaned audio and a speaker-labeled transcript. Runs locally. | Python, Whisper, diarization |
 | [Runner Injury Risk](https://github.com/auswallace/runner-injury-risk) | Injury-risk prediction for competitive runners from training-load time series. Rare-event ML with leakage-safe splits and calibration metrics. | Python, scikit-learn, Jupyter |
 | [Data Analyst Workbench](https://github.com/auswallace/data-analyst-workbench) | Repository template for data analysis with an AI coding agent: external memory, one home for each fact, and checks that enforce the rules. | JavaScript, AI agents |
-| [Portfolio Trimming Backtest](https://github.com/auswallace/portfolio-trimming-backtest) | Does portfolio trimming beat buy-and-hold? Three-phase backtest on real data (2015 to 2024). | Python, pandas |
+| [Portfolio Trimming Backtest](https://github.com/auswallace/portfolio-trimming-backtest) | An audit of my own backtest. A 52% win did not hold. A test on 17,000 random portfolios, with failed companies included, shows a coin flip. | Python, pandas |
 | [F1 Teammate Qualifying ML](https://github.com/auswallace/F1-teammate-quali-ML) | Predicts which Formula 1 driver qualifies ahead of a teammate. About 88% correct with walk-forward validation across seasons. Includes a dashboard, an API and tests. | Python, TypeScript, FastAPI |
 
 ## More work
