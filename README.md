@@ -10,6 +10,7 @@ I care about honest numbers. Each project below says what it can and cannot tell
 
 | Project | What it does | Tools |
 |---|---|---|
+| [mech](https://github.com/auswallace/mech) | Ask a question and get an interactive 3D model you can open up. A skill for AI assistants. An audit checks each figure, and each fact shows its source. | JavaScript, three.js |
 | [Who Is Hiring Tracker](https://github.com/auswallace/hn-hiring-tracker) | Dashboard of tech hiring trends from 22,613 Hacker News job posts (2022 to 2026). All fields come from tested keyword rules, not from an LLM. | Python, DuckDB, pandas, Streamlit |
 | [unmuffle](https://github.com/auswallace/unmuffle) | Drop in a bad recording and get back cleaned audio and a speaker-labeled transcript. Runs locally. | Python, Whisper, diarization |
 | [Runner Injury Risk](https://github.com/auswallace/runner-injury-risk) | Injury-risk prediction for competitive runners from training-load time series. Rare-event ML with leakage-safe splits and calibration metrics. | Python, scikit-learn, Jupyter |
